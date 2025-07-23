@@ -1,0 +1,3 @@
+* Sources
+https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/index.html
+https://pykickstart.readthedocs.io/en/latest/

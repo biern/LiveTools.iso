@@ -1,4 +1,4 @@
-%include /usr/share/spin-kickstarts/fedora-live-kde.ks
+%include fedora-kickstarts/fedora-live-kde.ks
 
 %packages
 zbar
